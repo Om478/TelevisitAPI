@@ -1,0 +1,6 @@
+@TelevisitAPI_HostAddress = http://localhost:5157
+
+GET {{TelevisitAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,27 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.cache
+*.pdb
+*.obj
+*.log
+*.dbmdl
+*.userosscache
+*.sln.docstates
+
+# Build
+bin/
+obj/
+
+# Publish output
+**/Properties/PublishProfiles/
+*.pubxml
+*.publishsettings
+
+# SQLite DB
+*.db
+*.sqlite
+
+# Other
+.env
